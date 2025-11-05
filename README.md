@@ -6,6 +6,7 @@ PG13+ WARNING: There is adult language and content in this game.
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Execution](#execution)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
 * [Project Status](#project-status)
@@ -18,6 +19,9 @@ PG13+ WARNING: There is adult language and content in this game.
 - This progam is a text-based game that directly challenges norms and understandings of street harrassment. It takes users on a story based journey, and ends with asking how many threats of violence were present in the game.
 - The understanding underpining this project is that cat-calling is a threat of violence, as it is often accompanied by acts of real violence. 
 - There is a language warning, with one use of a swear word, and the game revolves around the concepts of violence. 
+
+## Execution
+You can view the execution here: [https://youtu.be/FyKZA7igGVM](https://youtu.be/FyKZA7igGVM)
 
 ## Technologies Used
 - PyGame
